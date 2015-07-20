@@ -1,0 +1,6 @@
+name         'rfletcher-traceroute'
+version      '0.0.1'
+license      'MIT License'
+summary      'A Puppet module for Traceroute'
+description  'Install or remove Traceroute'
+project_page 'https://github.com/rfletcher/puppet-traceroute'
